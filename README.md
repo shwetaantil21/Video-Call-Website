@@ -12,7 +12,7 @@ Welcome to the "Video Calling Website" project! This project enables users to en
 
 ## Features
 
-- **Video Calls**: Users can initiate video calls by providing a room name and their name.
+- **Video Calls**: Users can initiate video calls by providing a room number and their name.
 
 ## Technologies Used
 
@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-This project is designed for users who want to experience simple and straightforward video calls. Simply input a room name and your name to get started.
+This project is designed for users who want to experience simple and straightforward video calls. Simply input a room number and your name to get started.
 
 ## Feedback
 
