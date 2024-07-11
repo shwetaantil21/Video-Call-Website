@@ -22,9 +22,6 @@ This project leverages the following technologies:
 - HTML, CSS, JavaScript: The frontend is built using standard web technologies.
 - [Agora WebSocket](https://www.agora.io/en/blog/how-to-build-a-javascript-video-call-app-with-agora/): Utilized for real-time communication in video calls.
 
-## Preview
-![Capture](https://github.com/rajatrawal/video-call-django/assets/72153827/e83f771a-d2de-413b-84d8-0a472da2f98f)
-
 
 ## Installation
 
@@ -62,7 +59,7 @@ This project is designed for users who want to experience simple and straightfor
 
 ## Feedback
 
-Feel free to contribute or provide feedback by creating issues or pull requests on [GitHub](https://github.com/rajatrawal/video-call-django).
+Feel free to contribute or provide feedback by creating issues or pull requests on [GitHub](https://github.com/shwetaantil21/Video-Call-Website).
 
 Thank you for exploring the "Video Calling Website" project! Enjoy your video calls!
 
