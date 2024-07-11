@@ -8,7 +8,7 @@
 [![CSS](https://img.shields.io/badge/CSS-Frontend-blue)](https://www.w3.org/Style/CSS/specs)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-blue)](https://www.javascript.com/)
 
-Welcome to the "Video Calling Website" project! This project enables users to engage in video calls by entering a room name and their name. It utilizes the Agora WebSocket for real-time communication.
+Welcome to the "Video Calling Website" project! This project enables users to engage in video calls by entering a room number and their name. It utilizes the Agora WebSocket for real-time communication.
 
 ## Features
 
@@ -60,9 +60,7 @@ To run this project locally, follow these steps:
 
 This project is designed for users who want to experience simple and straightforward video calls. Simply input a room name and your name to get started.
 
-## Live Demo
-
-Explore the live demo at [Video Calling Website](https://video-call-django.onrender.com/).
+## Feedback
 
 Feel free to contribute or provide feedback by creating issues or pull requests on [GitHub](https://github.com/rajatrawal/video-call-django).
 
